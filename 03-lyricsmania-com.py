@@ -43,7 +43,7 @@ if args.title == "":
 
 
 #print("%s/searchnew.php?k=%s+%s" % (base_url, \
-        args.artist.replace(" ","+"), args.title.replace(" ","+")))
+        #args.artist.replace(" ","+"), args.title.replace(" ","+")))
 
 
 # load results page
